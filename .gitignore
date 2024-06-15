@@ -1,0 +1,7 @@
+*.zip
+*.png
+*.jpg
+*.swp
+*.npz
+*.safetensors
+*.ckpt
